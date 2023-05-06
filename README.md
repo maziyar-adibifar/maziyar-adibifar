@@ -1,6 +1,6 @@
 # 💫 About Me:
 Master of Artificial Intelligence<br>Full stack web developer<br>Desktop programmer<br>Mobile programmer<br>Image processing, machine learning, deep learning<br>
-<i class="fa-solid fa-microchip-ai"></i>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maziyaradibi) 
